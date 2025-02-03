@@ -49,4 +49,4 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, reach out via [LinkedIn](www.linkedin.com/in/ridanasser/) or email at [rida.nasser@outlook.com](mailto:rida.nasser@outlook.com) .
+For any inquiries, reach out via [LinkedIn](https://www.linkedin.com/in/ridanasser/) or email at [rida.nasser@outlook.com](mailto:rida.nasser@outlook.com) .
