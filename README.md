@@ -37,3 +37,16 @@ This project analyzes key factors influencing heart attack probability using **P
 5. Run the script than generates visualizations:
    ```bash
    python main.py
+
+## Usage
+- Run the script to generate visualization on heart attack risk factors.
+- Modify the dataset or visualization parameters to explore different insights.
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for improvements.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For any inquiries, reach out via [LinkedIn](www.linkedin.com/in/ridanasser/) or email at [rida.nasser@outlook.com](mailto:rida.nasser@outlook.com) .
